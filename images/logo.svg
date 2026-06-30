@@ -1,0 +1,9 @@
+<svg width="100" height="30" viewBox="0 0 100 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #1d1d1f; }
+    .dot { fill: #0071e3; }
+  </style>
+  <text x="0" y="22" class="text">
+    <tspan class="dot">i</tspan>Store
+  </text>
+</svg>
